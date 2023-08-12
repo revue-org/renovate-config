@@ -2,7 +2,7 @@
   "extends": [
     "config:base", ":rebaseStalePrs", ":semanticCommits", ":semanticCommitTypeAll(chore)"
   ],
-  "assignees": ["DanySK"],
+  "assignees": ["kelvindev15"],
   "automerge": true,
   "dependencyDashboard": true,
   "git-submodules": {

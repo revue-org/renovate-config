@@ -6,7 +6,7 @@ To reuse, prepare your `renovate.json` as follows:
 ```json
 {
   "extends": [
-      "github>DanySK/renovate-config:file-name"
+      "github>kelvindev15/renovate-config:file-name"
   ]
 }
 ```
