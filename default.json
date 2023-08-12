@@ -2,7 +2,7 @@
   "extends": [
     "config:base", ":rebaseStalePrs", ":semanticCommits", ":semanticCommitTypeAll(chore)"
   ],
-  "assignees": ["kelvindev15"],
+  "assignees": ["kelvin-olaiya"],
   "automerge": true,
   "dependencyDashboard": true,
   "git-submodules": {
